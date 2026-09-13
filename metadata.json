@@ -1,0 +1,6 @@
+{
+  "name": "Lili Launcher",
+  "description": "Launcher inteligente personalizável com 5 temas animados, assistente Lili, widgets, relógios e previsão do tempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
